@@ -1,0 +1,7 @@
+s-boat
+b1-boat
+m1-boat
+b2-boat
+b3-boat
+m2-boat
+s2-boat
